@@ -13,7 +13,7 @@ npm install cypress --save-dev
 ```
 2- execute o comando
 ```sh
- npx cypress open;<br/> 
+ npx cypress open 
 ```
 3- seleciona a opção E2E Testing;<br/>
 4- seleciona o browser de sua preferência para execução dos testes;<br/>
