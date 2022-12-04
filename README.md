@@ -6,7 +6,7 @@
 
 ### Para a execução dos testes:<br/>
 1- faça o clone do repositório;<br/>
-2- install npm install cypress --save-dev;
+2- install npm install cypress --save-dev;<br/>
 2- execute o comando npx cypress open;<br/>
 3- seleciona a opção E2E Testing;<br/>
 4- seleciona o browser de sua preferência para execução dos testes;<br/>
