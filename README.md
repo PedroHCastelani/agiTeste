@@ -1,3 +1,27 @@
+# Teste para Agibank
+
+## Para o teste final foi pedido a criação dos dois cenários testes principais para a funcionalidade de busca no site.
+
+### Eu utilizei o framework Cypress.io v. 11.2.0 para elaboração dos cenários de testes.
+
+### Para a execução dos testes:
+1- Faça o clone do repositório;
+2- execute o comando npx cypress open;
+3- seleciona a opção E2E Testing;
+4- seleciona o browser de sua preferência para execução dos testes;
+5- clica no botão <'Start E2E testing type'>;
+6- seleciona o arquivo <'agiTest.cy.js'>.
+
+
+
+
+
+
+
+
+
+
+
 Acesse o blog do Agi: https://blogdoagi.com.br/.
 Considerando a pesquisa de artigos do blog (lupa no canto superior esquerdo), liste os possíveis cenários para a respectiva funcionalidade.
 
